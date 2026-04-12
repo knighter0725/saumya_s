@@ -20,3 +20,13 @@ gives the type of the file
 
 another command i learnt is du
 it gives disk usage statistics
+
+Level 5 : 
+i know i have to use du command
+so i first did man du
+i realised the command should be du * -a --bytes
+this logs all files with their byte sizes
+then all i do is look manually for the file of size 1033
+go to the file and cat it
+password found is HWasnPhtq9AVKe0dmk45nxy20cvUa6EG
+techie friend said grep is even better since no manual finding
