@@ -52,3 +52,14 @@ sort data.txt | uniq -c | grep -e "1 "
     we dont want that. so we use -c option to precede every line by its count
     then grep "1 " from the output
 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
+
+Level 9:
+see man for strings.
+strings command looks for ascii text in a binary file and returns all such lines to console
+grep this for the many equals too signs
+FGUW5ilLVJrxX9kMYMmlN4MgbpfMiqey
+
+Level 10:
+see man for base64
+use the -d option to decode
+dtR173fZKb0RRsDFSGsg2RWnpNVj3qRr
