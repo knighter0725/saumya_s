@@ -11,5 +11,5 @@
 * Unable to solve  
 * Level 14 \- Use `nc` to connect to port 30000  
 * Level 15 \- Use `ncat` because `nc` does not have SSL capability  
-* Level 16 \- nmap scan was taking too long  
+* Level 16 \- nmap scan  
 * Level 18 \- `ssh bandit.labs.overthewire.org -p 2220 -l bandit18 command ls` followed by `ssh bandit.labs.overthewire.org -p 2220 -l bandit18 command cat readme` 
