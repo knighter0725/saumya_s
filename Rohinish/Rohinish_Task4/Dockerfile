@@ -1,4 +1,4 @@
-FROM gcc:14 AS builder
+FROM gcc:14-bookworm AS builder
 
 WORKDIR /app
 
